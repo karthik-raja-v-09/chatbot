@@ -6,6 +6,5 @@ url_for
 session
 os
 json
-google.generativeai
+googl_generativeai
 numpy
-cosine_similarity
