@@ -1,0 +1,11 @@
+Flask
+render_template
+request
+redirect
+url_for
+session
+os
+json
+google.generativeai
+numpy
+cosine_similarity
